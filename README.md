@@ -1,12 +1,7 @@
-# Weather-Anomaly-Predictor
-Of course! Here's a nicely formatted `README.md` for your GitHub project based on your script and request:
-
----
-
-# 🌦️ Weather Data Analysis and Anomaly Detection Project
+# 🌦️ Weather Anomaly Detection Project And Extreme Event Prediction
 
 ![Weather](https://img.shields.io/badge/Project-Weather%20Analysis-blue)  
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-Free-green)
 
 ---
 
@@ -35,7 +30,7 @@ The primary goal is to **detect anomalies** in historical weather data and **pre
 ├── outputs/
 │   ├── *.png (generated plots)
 ├── scripts/
-│   ├── weather_analysis.py (this script)
+│   ├── main.py (this script)
 ├── README.md
 ```
 
@@ -104,7 +99,7 @@ _All plots are automatically saved as high-quality `.png` files!_
 
 4. Run the main script:  
    ```bash
-   python scripts/weather_analysis.py
+   python scripts/main.py
    ```
 
 5. Check the generated files inside `/outputs/`.
@@ -121,7 +116,7 @@ _All plots are automatically saved as high-quality `.png` files!_
 
 ## 🤝 Credits
 
-- **Developed by:** [Your Name]  
+- **Developed by:** [Suyog3210]
 - **Inspired by:** Real-world weather analytics needs in meteorology.
 - **Special Thanks:** Open-source Python community!
 
@@ -129,7 +124,7 @@ _All plots are automatically saved as high-quality `.png` files!_
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.  
+This project is free to use.
 Feel free to fork, modify, and contribute!
 
 ---
@@ -140,13 +135,3 @@ Feel free to fork, modify, and contribute!
 - 🐙 [GitHub](https://github.com/your-username)
 - 🐦 [Twitter](https://twitter.com/your-twitter)
 
----
-
-_“Bringing data to life through the winds of code and clouds of insight.”_ ☁️🌎
-
----
-
----
-
-Would you also like me to create a simple `LICENSE` file (MIT) and maybe a `requirements.txt` so it's completely ready for GitHub? 🚀  
-Would you like a logo or a small banner for the top of the README too? 🎨✨
