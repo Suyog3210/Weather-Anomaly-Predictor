@@ -1,4 +1,4 @@
-# 🌦️ Weather Anomaly Detection Project And Extreme Event Prediction
+# 🌦️ Weather Anomaly Detection and Extreme Event Prediction
 
 ![Weather](https://img.shields.io/badge/Project-Weather%20Analysis-blue)  
 ![License](https://img.shields.io/badge/License-Free-green)
