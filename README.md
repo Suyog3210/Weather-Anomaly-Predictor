@@ -131,7 +131,6 @@ Feel free to fork, modify, and contribute!
 
 ## 📬 Connect
 
-- ✉️ [Email](mailto:your-email@example.com)
-- 🐙 [GitHub](https://github.com/your-username)
-- 🐦 [Twitter](https://twitter.com/your-twitter)
-
+- ✉️ [Email](suyogpalve030@gmail.com)
+- 🐙 [GitHub](https://github.com/Suyog3210)
+  
